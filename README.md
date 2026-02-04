@@ -2,7 +2,7 @@
 
 
 
-##  👩‍💻 Sobre mim
+##  🙋🏻‍♀️ Sobre mim
 
 - 🧠 Cursando Tecnólogo em Inteligência Artificial (SENAI FATESG)  
 - 🎓 Pós-Graduanda em Ux Design (SENAI SÃO PAULO)  
