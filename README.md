@@ -94,37 +94,16 @@ Tenho forte interesse na interseção entre **Inteligência Artificial, Experiê
 
 ---
 
-## 📂 Projetos em Destaque
-
-🚧 *Em construção* — Em breve você encontrará aqui projetos relacionados a:
-
-- Inteligência Artificial aplicada
-- Análise e documentação de sistemas
-- UX e prototipação
-- Estudos e experimentos com dados
-
-🔗 [Veja todos os meus repositórios](https://github.com/Willgnner-Santos)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Willgnner-Santos&theme=2077" />
-</p>
-
----
-
 ## 📬 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/willgnner-ferreira-santos-20bb6a17a">
+  <a href="https://www.linkedin.com/in/melissa-cunha-leite-25a42216b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:melissaamr16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="http://lattes.cnpq.br/3203020327904139">
+  <a href="http://lattes.cnpq.br/0423236211204006">
     <img src="https://img.shields.io/badge/Lattes-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
