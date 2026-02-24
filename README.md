@@ -1,66 +1,137 @@
-<h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
-
-
-
-## :woman:  Sobre mim
-
-- 🧠 Cursando Tecnólogo em Inteligência Artificial (SENAI FATESG)  
-- 🎓 Pós-Graduanda em Ux Design (SENAI SÃO PAULO)  
-- 💻 Formada em Gestão da Tecnologia da Informação (UniCambury)  
-- 💼 Analista de Sistemas (RTVE) - Lotada em CERCOMP-UFG
----
-
-## 🚀 Tecnologias e Ferramentas
-
-<p>
-  <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
-  <!-- Inteligência Artificial e Ciência de Dados -->
-  <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial%20(IA)-1F6FEB?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA%20Generativa-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Processamento%20de%20Linguagem%20Natural%20(PLN)-006400?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Large%20Language%20Models%20(LLMs)-6A5ACD?style=for-the-badge&logo=llama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ci%C3%AAncia%20de%20Dados-FF1493?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minera%C3%A7%C3%A3o%20de%20Dados-8B0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Big%20Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
-
-  <!-- Business Intelligence -->
-  <img src="https://img.shields.io/badge/Business%20Intelligence%20(BI)-1E90FF?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</p>
-
-
----
-
-## 📊 Resumo do Perfil GitHub
+<h1 align="center">Olá! Eu sou a Melissa Cunha Leite 👋</h1>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Willgnner-Santos&theme=2077" alt="Resumo GitHub"/>
+Analista de Sistemas | Tecnologia da Informação | UX | Inteligência Artificial
 </p>
 
 ---
 
-## 📂 Projetos Destacados
+## 👩‍💻 Sobre mim
 
-- 
+Sou profissional da área de **Tecnologia da Informação**, com experiência sólida em **análise de sistemas, levantamento de requisitos, testes de software, documentação e suporte técnico** em ambientes institucionais.
 
-- 🔗 [Veja todos os meus projetos no GitHub]( )
+Atuo atualmente como **Analista de TI**, participando do ciclo completo de desenvolvimento de sistemas — desde a **especificação de requisitos e prototipação**, até **testes, validação com usuários e capacitação**.
+
+Tenho forte interesse na interseção entre **Inteligência Artificial, Experiência do Usuário (UX) e Sistemas de Informação**, buscando soluções tecnológicas funcionais, usáveis e alinhadas às necessidades reais dos usuários.
 
 ---
 
-## 📬 Entre em Contato
+## 🎓 Formação Acadêmica
+
+- 🧠 **Tecnólogo em Inteligência Artificial** – SENAI FATESG *(em andamento)*  
+- 🎓 **Pós-Graduação em UX Design** – SENAC São Paulo *(2025 – 2026)*  
+- 💻 **Tecnólogo em Gestão da Tecnologia da Informação** – UniCambury *(2017 – 2019)*  
+
+---
+
+## 💼 Experiência Profissional
+
+### 💼 Analista de TI — Fundação RTVE  
+**Lotação:** CERCOMP / UFG  
+📅 *Jun 2022 – Fev 2026*
+
+- Análise e especificação de requisitos de sistemas
+- Criação de protótipos e apoio à definição de soluções
+- Documentação técnica e funcional
+- Testes de software (funcional, regressão e integração)
+- Suporte e capacitação de usuários
+- Apoio à melhoria contínua de sistemas institucionais
+
+### 🚀 Product Owner — Projeto Inova Sistemas 1  
+**Sistema de Digitalização de Documentos**
+
+- Levantamento e priorização de requisitos
+- Modelagem de processos (BPMN)
+- Prototipação e validação com stakeholders
+- Apoio à tomada de decisão do produto
+
+### 🧪 QA / Testes — Projeto Inova Sistemas 2  
+**Sistema de Atos Normativos**
+
+- Testes manuais, de regressão e integração
+- Documentação de testes e validação de entregas
+- Garantia da qualidade conforme requisitos definidos
+
+### 🛠️ Técnica de Suporte Nível III — Syndata Sistemas  
+📅 *Dez 2017 – Jun 2022*
+
+- Suporte técnico avançado e atendimento ao usuário
+- Instalação, configuração e manutenção de sistemas
+- Acesso remoto (TeamViewer e AnyDesk)
+- Manipulação e migração de bancos de dados:
+  - Firebird
+  - SQL Server
+  - PostgreSQL
+  - MySQL
+
+---
+
+## 🚀 Tecnologias e Conhecimentos
+
+### 💻 Linguagens e Dados
+- Python  
+- SQL (MySQL, PostgreSQL, SQL Server, Firebird)
+
+### 🤖 Inteligência Artificial e Dados
+- Machine Learning (conceitos)
+- IA Generativa
+- Processamento de Linguagem Natural (PLN)
+- Ciência e Mineração de Dados
+- Big Data (conceitos)
+
+### 🧠 Engenharia de Software e Produto
+- Levantamento de Requisitos
+- Documentação de Sistemas
+- Testes de Software (QA)
+- BPMN
+- Metodologias Ágeis (Scrum)
+- Product Ownership
+
+### 🎨 UX e Usabilidade
+- Prototipação
+- Validação com usuários
+- Usabilidade e experiência do usuário
+
+---
+
+## 📂 Projetos em Destaque
+
+🚧 *Em construção* — Em breve você encontrará aqui projetos relacionados a:
+
+- Inteligência Artificial aplicada
+- Análise e documentação de sistemas
+- UX e prototipação
+- Estudos e experimentos com dados
+
+🔗 [Veja todos os meus repositórios](https://github.com/Willgnner-Santos)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Willgnner-Santos&theme=2077" />
+</p>
+
+---
+
+## 📬 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/willgnner-ferreira-santos-20bb6a17a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:eng.willgnner@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="http://lattes.cnpq.br/3203020327904139"><img src="https://img.shields.io/badge/-Lattes-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/willgnner-ferreira-santos-20bb6a17a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:melissaamr16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="http://lattes.cnpq.br/3203020327904139">
+    <img src="https://img.shields.io/badge/Lattes-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
 <p align="center">
-  <strong>✨ Obrigado por visitar meu perfil!</strong><br/>
-  Veja meus projetos e fique à vontade para entrar em contato!
+✨ Obrigada por visitar meu perfil!  
+Fique à vontade para explorar meus projetos ou entrar em contato.
 </p>
