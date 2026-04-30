@@ -8,11 +8,11 @@ Analista de Sistemas | Tecnologia da Informação | UX | Inteligência Artificia
 
 ## 👩‍💻 Sobre mim
 
-Sou profissional da área de **Tecnologia da Informação**, com experiência sólida em **análise de sistemas, levantamento de requisitos, testes de software, documentação e suporte técnico** em ambientes institucionais.
+Sou profissional da área de **Tecnologia da Informação**, com experiência sólida em **análise de sistemas, levantamento de requisitos, testes de software, documentação e suporte técnico** em ambientes institucionais, buscando migrar para a carreira de desenvolvimento de software com a base sólida já adquirida.
 
 Atuo atualmente como **Analista de TI**, participando do ciclo completo de desenvolvimento de sistemas — desde a **especificação de requisitos e prototipação**, até **testes, validação com usuários e capacitação**.
 
-Tenho forte interesse na interseção entre **Inteligência Artificial, Experiência do Usuário (UX) e Sistemas de Informação**, buscando soluções tecnológicas funcionais, usáveis e alinhadas às necessidades reais dos usuários.
+Tenho forte interesse na interseção entre **Inteligência Artificial, Desenvolvimento de Software, Experiência do Usuário (UX) e Sistemas de Informação**, buscando soluções tecnológicas funcionais, usáveis e alinhadas às necessidades reais dos usuários.
 
 ---
 
@@ -28,7 +28,7 @@ Tenho forte interesse na interseção entre **Inteligência Artificial, Experiê
 
 ### 💼 Analista de TI — Fundação RTVE  
 **Lotação:** CERCOMP / UFG  
-📅 *Jun 2022 – Fev 2026*
+📅 *Jun 2022 – Abr 2026*
 
 - Análise e especificação de requisitos de sistemas
 - Criação de protótipos e apoio à definição de soluções
@@ -73,10 +73,9 @@ Tenho forte interesse na interseção entre **Inteligência Artificial, Experiê
 - SQL (MySQL, PostgreSQL, SQL Server, Firebird)
 
 ### 🤖 Inteligência Artificial e Dados
-- Machine Learning (conceitos)
-- IA Generativa
-- Processamento de Linguagem Natural (PLN)
-- Ciência e Mineração de Dados
+- Machine Learning *(conceitos)*
+- Análise de Dados *(trabalhos acadêmicos)*
+- Ciência de Dados *(em construção)*
 - Big Data (conceitos)
 
 ### 🧠 Engenharia de Software e Produto
