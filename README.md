@@ -96,7 +96,6 @@ Tenho forte interesse na interseção entre **Inteligência Artificial, Desenvol
 
 ## Projetos
 
-### MVP - Guardião LGPD
 ### <img src="https://v0-guardiao-lgpd-beta.vercel.app/logo-guardiao.png" height="28"/> MVP - Guardião LGPD
 
 <a href="https://v0-guardiao-lgpd-beta.vercel.app/" target="_blank">
@@ -126,6 +125,28 @@ A arquitetura do sistema prioriza segurança e autonomia institucional, eliminan
   📄 Ver artigo completo
 </a>
   
+
+### 💳 Sistema de Empréstimos
+
+<a href="https://v0-novo-sistema-de-emprestimo.vercel.app/" target="_blank">
+  🔗 Acessar sistema
+</a>
+
+Aplicação desenvolvida para gerenciamento de empréstimos, com foco no controle, rastreabilidade e organização das operações financeiras.
+
+O sistema permite:
+
+- Cadastro de clientes e contratos de empréstimo  
+- Controle de parcelas, vencimentos e status de pagamento  
+- Cálculo de valores, incluindo juros e atualização de saldo devedor  
+- Visualização do histórico completo de transações  
+- Organização das informações para facilitar auditoria e acompanhamento  
+
+A solução foi projetada visando clareza nas regras de negócio e facilidade de uso, garantindo maior controle sobre operações de crédito e redução de inconsistências nos registros.
+
+### Objetivo
+
+Fornecer uma ferramenta simples e eficiente para gestão de empréstimos, permitindo melhor acompanhamento financeiro e tomada de decisão baseada em dados.
 
 ---
 
