@@ -71,6 +71,7 @@ Tenho forte interesse na interseção entre **Inteligência Artificial, Desenvol
 ### 💻 Linguagens e Dados
 - Python  
 - SQL (MySQL, PostgreSQL, SQL Server, Firebird)
+- NoSQL (MongoDB, Redis)
 
 ### 🤖 Inteligência Artificial e Dados
 - Machine Learning *(conceitos)*
