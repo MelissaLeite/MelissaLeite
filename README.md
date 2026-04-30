@@ -125,7 +125,6 @@ A arquitetura do sistema prioriza segurança e autonomia institucional, eliminan
   📄 Ver artigo completo
 </a>
 
---
 
 ### 💳 Sistema de Empréstimos
 
