@@ -94,6 +94,18 @@ Tenho forte interesse na interseção entre **Inteligência Artificial, Desenvol
 
 ---
 
+## Projetos
+
+### MVP - Guardião LGPD
+<a href="https://v0-guardiao-lgpd-beta.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://v0-guardiao-lgpd-beta.vercel.app/logo-guardiao.png"/>
+  </a>
+Artigo: <a href="https://docs.google.com/document/d/e/2PACX-1vSvk4b-txNa7o1lnS8YRXoCQc5cR-IGz8E_0up88QBVUkflMtcX38sig0-k_ryu2kZ1lnJCKLPVEVRV/pub" target="_blank" rel="noopener noreferrer">
+  </a>
+  
+
+---
+
 ## 📬 Contato
 
 <p>
