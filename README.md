@@ -97,11 +97,34 @@ Tenho forte interesse na interseção entre **Inteligência Artificial, Desenvol
 ## Projetos
 
 ### MVP - Guardião LGPD
-<a href="https://v0-guardiao-lgpd-beta.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://v0-guardiao-lgpd-beta.vercel.app/logo-guardiao.png"/>
-  </a>
-Artigo: <a href="https://docs.google.com/document/d/e/2PACX-1vSvk4b-txNa7o1lnS8YRXoCQc5cR-IGz8E_0up88QBVUkflMtcX38sig0-k_ryu2kZ1lnJCKLPVEVRV/pub" target="_blank" rel="noopener noreferrer">
-  </a>
+### <img src="https://v0-guardiao-lgpd-beta.vercel.app/logo-guardiao.png" height="28"/> MVP - Guardião LGPD
+
+<a href="https://v0-guardiao-lgpd-beta.vercel.app/" target="_blank">
+  🔗 Acessar sistema
+</a>
+
+Projeto desenvolvido no contexto de conformidade com a LGPD no setor público, considerando desafios como descentralização administrativa, bases de dados heterogêneas e baixa integração entre sistemas institucionais.
+
+O **Guardião LGPD** é uma solução baseada em Processamento de Linguagem Natural (PLN) que realiza a identificação automática de dados pessoais em documentos, com foco em:
+
+- Detecção de dados sensíveis  
+- Explicabilidade dos resultados (justificativa das ocorrências)  
+- Rastreabilidade das análises  
+- Execução 100% offline (sem dependência de nuvem)  
+
+A arquitetura do sistema prioriza segurança e autonomia institucional, eliminando riscos relacionados ao tráfego e armazenamento de dados em ambientes externos.
+
+### Resultados
+
+- Auditoria automatizada e interpretável  
+- Redução de riscos jurídicos  
+- Fortalecimento da governança de dados no setor público  
+
+### Artigo
+
+<a href="https://drive.google.com/file/d/1iNaEaGeDPBMZWK49iak1dnfzQeRE_LpU/view?usp=sharing" target="_blank">
+  📄 Ver artigo completo
+</a>
   
 
 ---
